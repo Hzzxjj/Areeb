@@ -1,6 +1,5 @@
-# areb
-
-A new Flutter project.
+# Areeb 
+Areeb" in Arabic means a wise and skilled person, and this is the goal of the project, to empower your child to become wise and skilled in managing financial matters. "Areeb" is an application that aims to enhance the child's self-reliance and increase financial awareness by providing the opportunity to simulate a virtual wallet and experience spending and saving
 
 ## Getting Started
 
